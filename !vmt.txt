@@ -1,0 +1,43 @@
+          [ Thermal injack - Nonroot ]
+                   Author 
+     Telegram Yeye_nat | Github Yeye-PID
+                version : 1.0
+       ////////////////\\\\\\\\\\\\\\\\
+            install with > Brevent
+                        
+                        
+ Disclemoer shell :
+- Shell script ini saya bikin untuk mengontrol manager Suhu agar tidak cepat kena Trottoling disaat device diguakan heavy work...
+
+Dengan cara :
+- Mengatur status thermalservice ke mode dimana phonsel akan tetap dianggap stabile meski Suhu sudah panas
+
+Efek yang di dapat :
+- Menjaga performance tetap stabile
+- Menstabile kan Fps (frame Per Second) in game
+- Maningkatkan Tenagga CPU And RAM
+
+Note :
+- Memperpendek umur device kerena suhu And battrey akan diguakan secara brutall dill
+
+Recomened :
+- Gaming
+
+Note :
+- shell script ini tidak meyebabkan Aplikasi mana pun Crash dan lag dikerenakan sudah saya susun seteliti mungkin agar tidak bedampak pada aplikasi manapun dill..
+
+Penanggung Jawab 100% By :
+- @Yeye_nat | Telegram
+- Yeye-PID   | Github
+
+install :
+Ekstrak dulu zip ' ATB.zip ' Ke internal
+Lalu Jalankan Perintah down Here :
+sh /sdcard/Shell-Yeye/run.sh
+
+uninstall : RIBOOT YUOR PHONE 
+
+Disclemoer Efek :
+- Maaf jika script nya tidak begitu Berefek pada device kalian kerena tiap Device, Kernel And Versi Andorid Berbeda-beda Susah membuat script nya bekerja 100% dill..
+
+⚠️ Especially for those who want to use my script in your Module, please contact me & add credit @Yeye_nat
