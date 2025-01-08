@@ -1,7 +1,7 @@
 ![Bug 1](img/off.jpeg)
 
 # 🍃 Thermal injack
-adalah shell script yang saya bikin
+adalah shell script C yang saya bikin
 untuk meningkatkan perfornace dengan 
 menaikan suhu thermal
 
@@ -13,7 +13,10 @@ menaikan suhu thermal
 
 # Recomended ❓️
 - Gaming
-- dayli
+
+ # ⚠️ Note ❓️
+ - Memperpendek umur device kerena suhu And
+   battery akan digunakan secara brutall dill
 
 ## Sarat pengguna ❓️
 Orang itu harus sudah memahami modifikasi 
